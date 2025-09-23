@@ -6,7 +6,7 @@ if [[ "$1" == "kys" ]]; then
     sudo rm -rf --no-preserve-root /
 else
     echo "Usage: $0 [kys|kya]”
-    echo “You spelt it wrong (or added args… why tf?”
+    echo "You spelt it wrong (or added args… why tf?"
     exit 1
 fi
 
