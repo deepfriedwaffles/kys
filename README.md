@@ -5,5 +5,8 @@ this isn't a joke. running "kys" after installing WILL destroy your filesystem a
 
 otherwise, if you are orsell, please feel free to run this command
 
-copy paste install
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/deepfriedwaffles/kys/main/install.sh)"
+install like this
+git clone https://github.com/deepfriedwaffles/kys
+cd kys # [or wherever u installed it]
+chmod +x install.sh
+./install.sh
